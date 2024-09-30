@@ -20,7 +20,7 @@
 - [Premissas Assumidas](#premissas-assumidas)
 - [Decisões de Projeto](#decisões-de-projeto)
 - [Configuração do Ambiente](#configuração-do-ambiente)
-- [Licença](#licença)
+- [Fale Comigo](#licença)
 
 ## 🔭 Visão Geral
 O projeto tem como finalidade a criação de uma API para a realização do seguinte exemplo:
@@ -122,7 +122,7 @@ Siga os passos abaixo para iniciar o projeto em seu ambiente local:
 
  4️⃣**Acesse a API REST NestJS**
 
-   Após iniciar os contêineres, você pode acessar a API REST do Laravel através do seu navegador no endereço [http://localhost:5000](http://localhost:5000).
+   Após iniciar o servidor, você pode acessar a API REST através do seu navegador no endereço [http://localhost:5000](http://localhost:5000).
 
 
 5️⃣ **Modifique o projeto**
