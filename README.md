@@ -1,9 +1,9 @@
-<h1 align="center">🏄 API Processo Seletivo dti 🏄</h1>
+<h1 align="center">🏄 API Lista de Lembretes 🏄</h1>
 
 
 
 <div align="center">
-  <strong>🚀 API para projeto de Lembretes desenvolvido para Processo Seletivo dti 📚</strong>
+  <strong>🚀 API para projeto de Lembretes  📚</strong>
 </div>
 
 <div align="center">
